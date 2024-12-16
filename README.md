@@ -2,6 +2,18 @@
 
 Este es un pequeño juego de piedra, papel o tijera implementado en Python utilizando las librerías OpenCV y MediaPipe para la detección de manos. El juego permite jugar contra la computadora usando gestos de las manos para elegir piedra, papel o tijera.
 
+## Ejemplo
+<table>
+    <tr>
+        <td>
+            <img src="./inicio_juego.png" width=800>
+        </td>
+        <td>
+            <img src="./seleccion.png" width=800>
+        </td>
+    </tr>
+</table>
+
 ## Requisitos
 
 - Python 3.x

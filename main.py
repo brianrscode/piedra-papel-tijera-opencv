@@ -4,7 +4,7 @@ import numpy as np
 from HandsDetector import HandsDetector
 
 
-cap = cv2.VideoCapture(2)
+cap = cv2.VideoCapture(1)
 
 img_inicio = cv2.imread("./imgs/4.png")
 img_elegir = cv2.imread("./imgs/5.png")
